@@ -82,4 +82,4 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image}
 
             # /admin/config.yml
-              publish_mode: editorial_workflow
+            publish_mode: editorial_workflow
