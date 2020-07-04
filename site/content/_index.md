@@ -1,6 +1,6 @@
 ---
 title: "UX career sessions"
-subtitle: I'm offering up  1:1 career sessions for Black UXers
+subtitle: 1:1 career sessions for Black UXers
 
 intro:
   heading: 1:1 career sessions for Black UXers
