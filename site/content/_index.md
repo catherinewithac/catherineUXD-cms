@@ -3,7 +3,7 @@ title: "UX career sessions"
 subtitle: I'm offering up  1:1 career sessions for Black UXers
 
 intro:
-  heading: 1:1 career sessions
+  heading: 1:1 career sessions for Black UXers
   text: >
     These free sessions are 60 minutes over video conferencing. I'm opening up timeslots on my personal time, when I am able to.
 
