@@ -16,5 +16,7 @@ blurb:
 
     I'm no professional career coach, but I'd like to share my knowledge so that you can grow and elevate your career. Though I'm not an official hiring manager (yet), my input frequently influences hiring decisions, and I'm determined to increase Black representation in the UX hiring pipeline.
 
+{{ partial "Calendly" }}
+
 
 ---
